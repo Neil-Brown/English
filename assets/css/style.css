@@ -1,0 +1,41 @@
+body{
+	margin:0;
+	padding:0 rem;
+	margin-top:2rem
+}
+
+nav{
+	padding:5rem
+}
+
+#content{
+	text-align:center;
+	width:100%;
+}
+
+img{
+	width:10rem;
+	height:9rem
+}
+
+button{
+	margin-top:2rem;
+	background:#ff3333;
+	padding:1rem;
+	border-radius:1rem;
+	border-color:white;
+	color:white;
+	width:8rem;
+	height:8rem;
+	font-size:2rem;
+	display:block;
+	margin-left:auto;
+    margin-right:auto;
+	border-shadow:none
+}
+
+button:hover{
+	background:#5e2b2b;
+	cursor:pointer
+
+}
